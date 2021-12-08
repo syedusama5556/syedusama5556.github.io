@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "main.dart.js": "63c969de3e4cf13d764d94eb1625bde2",
-"assets/AssetManifest.json": "c74cba3a549845f648e23ee3df0402c3",
+"assets/AssetManifest.json": "9274095ece4f4b0751eacaa1e7e1a27b",
 "assets/NOTICES": "a628c866fa64a61f90b57255e9cbeffd",
 "assets/assets/images/background.png": "1f072abbf033f5faea67fc711e377484",
 "assets/assets/images/download.png": "d9317d736e7b69f20f57f6ab13f34d3c",
@@ -34,9 +34,10 @@ const RESOURCES = {
 "assets/assets/images/messanger.png": "beacdbb3a93df25674af2f5302f5633a",
 "assets/assets/images/flights.png": "2b7e7220820a25f96c4b6a77bf30324f",
 "assets/assets/images/sign.png": "09ce9472b81f95dc3193a4ce58872bfb",
+"assets/assets/images/person12.png": "47d5c0978883b10fddee4ef48ba93814",
 "assets/assets/images/Hover.png": "f0a2318c40269d84384f56f54d25ad69",
 "assets/assets/images/work_2.png": "e1d3843d3e6d8752cfe40f655caab6d5",
-"assets/assets/images/person.png": "47d5c0978883b10fddee4ef48ba93814",
+"assets/assets/images/person.png": "559989941d88118c85ea86b24231d82a",
 "assets/assets/images/Intreaction_design.png": "98e873648b7c2d3062556f2f8c09d4c3",
 "assets/assets/images/material.jpg": "6f909e501e2eae6ffc999154d1f40d0a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
@@ -46,8 +47,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "9d3d57f21e96b6052aaf48bd974ffe62",
 "version.json": "8e5d41b92366d4edefc1de9952436ec1",
-"index.html": "d915a71923d2b2eed87d269541d13a65",
-"/": "d915a71923d2b2eed87d269541d13a65"
+"index.html": "67b3c1ba4246fe5affe815cd0697f982",
+"/": "67b3c1ba4246fe5affe815cd0697f982"
 };
 
 // The application shell files that are downloaded before a service worker can
